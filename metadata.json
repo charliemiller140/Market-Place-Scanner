@@ -1,0 +1,5 @@
+{
+  "name": "Image Quality Analyzer",
+  "description": "An AI-powered tool for marketplace sellers that provides a 'report card' on how well their product photos meet best practices, helping them improve their listings and attract more customers.",
+  "requestFramePermissions": []
+}
